@@ -38,7 +38,7 @@
       "name": "canvas",
       "source": {
         "source": "git-subdir",
-        "url": "algonormative/canvas",
+        "url": "https://github.com/algonormative/canvas.git",
         "path": "mod"
       },
       "description": "Panes the model can draw (markdown, stats, tables, SVG, buttons) and media curation for audio, images, video and documents",
