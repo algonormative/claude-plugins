@@ -1,5 +1,9 @@
 # algonormative Claude Code plugins
 
+[![ci](https://github.com/algonormative/claude-plugins/actions/workflows/ci.yml/badge.svg)](https://github.com/algonormative/claude-plugins/actions/workflows/ci.yml)
+[![plugins](https://img.shields.io/badge/plugins-3-D97757?logo=claude&logoColor=white)](#plugins)
+[![license](https://img.shields.io/github/license/algonormative/claude-plugins)](LICENSE)
+
 A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugins/create-marketplace) of mods by algonormative.
 
 ## Install
