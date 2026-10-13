@@ -1,0 +1,53 @@
+{
+  "name": "algonormative",
+  "description": "Claude Code plugins and mods by algonormative: see your subagents, your beads queue, and panes the model can draw",
+  "owner": {
+    "name": "algonormative",
+    "url": "https://github.com/algonormative"
+  },
+  "plugins": [
+    {
+      "name": "subagents-plus",
+      "source": {
+        "source": "github",
+        "repo": "algonormative/subagents-plus"
+      },
+      "description": "See your subagents: an expandable live tree of every subagent, a timeline, Agent-row cards and a band above the prompt",
+      "category": "productivity",
+      "tags": [
+        "subagents",
+        "mod",
+        "pane"
+      ]
+    },
+    {
+      "name": "beads-band",
+      "source": {
+        "source": "github",
+        "repo": "algonormative/beads-band"
+      },
+      "description": "A band above the prompt for a beads task queue: the ready count when idle, the task this session claimed while working",
+      "category": "productivity",
+      "tags": [
+        "beads",
+        "tasks",
+        "mod"
+      ]
+    },
+    {
+      "name": "canvas",
+      "source": {
+        "source": "git-subdir",
+        "url": "algonormative/canvas",
+        "path": "mod"
+      },
+      "description": "Panes the model can draw (markdown, stats, tables, SVG, buttons) and media curation for audio, images, video and documents",
+      "category": "productivity",
+      "tags": [
+        "pane",
+        "media",
+        "mod"
+      ]
+    }
+  ]
+}
